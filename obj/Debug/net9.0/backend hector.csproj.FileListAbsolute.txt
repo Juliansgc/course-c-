@@ -1,0 +1,36 @@
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\appsettings.json
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\backend hector.staticwebassets.endpoints.json
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\backend hector.exe
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\backend hector.deps.json
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\backend hector.runtimeconfig.json
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\backend hector.dll
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\backend hector.pdb
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\source\repos\Variables\backend hector\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\scopedcss\bundle\backend hector.styles.css
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets\msbuild.backend hector.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets\msbuild.backend hector.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets\msbuild.build.backend hector.props
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.backend hector.props
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.backend hector.props
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend .10D44E66.Up2Date
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.dll
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\refint\backend hector.dll
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.pdb
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\backend hector.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Variables\backend hector\obj\Debug\net9.0\ref\backend hector.dll
